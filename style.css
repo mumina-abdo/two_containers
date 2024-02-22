@@ -1,0 +1,10 @@
+#containerout{
+    border: dotted 1px red;
+}
+
+#containerin{
+    border: solid 4px pink;
+    padding: 20 px;
+    margin: 5%;
+
+}
